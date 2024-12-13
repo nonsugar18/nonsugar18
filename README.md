@@ -38,6 +38,6 @@ Currently learning Vue 3 and working on writing more examples to become more fam
 - Mantis
 - Figma
 
-## 💡 Projects
+## 💡 Repo
 - [9x9 multiplication table test](https://github.com/nonsugar18/flutterRandamTest)
 - [DraggableBox using React.js](https://github.com/nonsugar18/ReactDragAndDrop)
