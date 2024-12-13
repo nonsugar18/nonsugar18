@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **nonsugar18/nonsugar18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,43 +13,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
+## Hi there 👋 I'm Leia!
 
-Hi, I'm Clark! I am a front-end Developer of web. I love learing new technology and skills of web, I writting articles about technology of program I leanrned on [dev.to](https://dev.to/ms314006). I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.
+I am  a SoC Simulation and Analysis Engineer, specializing in system-level modeling, performance analysis, and optimization of semiconductor designs.Also a front-end Developer of web(over 6y+ experence). I excel in data visualization, transforming complex configurations and data into intuitive user interfaces. Currently, I am particularly focused on enhancing my front-end development skills.
 
 ## 🤓 My values
-🍏 Beginner's mindset and curiosity<br>
-🙌 Sharing anything I learned<br>
+🍏 Passionate about learning new technologies.<br>
+🙌 Strong team collaboration skills.<br>
 
-## 🔭 Goals of 2020
+## 🔭 Goals of 2024
 
-I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2020 💪. I also want to contribute more open source projects make I can improve my skills of program.
+Currently learning Vue 3 and working on writing more examples to become more familiar with the framework.
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
 - HTML5
-- CSS3, SCSS, SASS
-- Material-ui, Antd, Bootstrap
+- CSS3, SCSS
+- Bootstrap
 - JavaScript, TypeScript
-- React, Redux, Redux-Saga React-Router, Next.js
-- Vue, Vuex, Vue-Router
-- Jest, Enzyme, React-Testing-Library, Vue-Testing-Library
 
 ### 🔧 Tool
-- Version Control(Git/it-Flow)
-- Test Driven Developer
-- Open Source Projects
-- Travis-CI
+- Version Control(Git)
+- Jenkis
+- Mantis
+- Figma
 
 ## 💡 Projects
-- [Team of Pokemon](https://ms314006.github.io/team-of-pokemon/dist/)
-- [Hangman](https://ms314006.github.io/hangman/dist/)
-- [90 secconds game - A yellow duck](https://ms314006.github.io/90_secGame-with-React/dist/)
-- [Free cell](https://ms314006.github.io/FreeCell-With-React/dist/index.html)
-- [Music player](https://ms314006.github.io/MP3_Player-With-React/dist/)
-
-## 🔗 Get in touch
-- Personal site: http://ms314006.github.io/
-- Dev.to: https://dev.to/ms314006
-- StackOverflow: https://stackoverflow.com/users/10421516/clark
-- Medium: https://medium.com/@GQSM
+- [9x9 multiplication table test](https://github.com/nonsugar18/flutterRandamTest)
